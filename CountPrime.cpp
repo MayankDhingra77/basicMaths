@@ -1,3 +1,4 @@
+//Sieve of Eratosthenes - assume all nummbers as prime remove all multiples of 2 and 3 and 5 and 7 Sieve means jali 
 # include <bits/stdc++.h>
 using namespace std ;
 class Solution {

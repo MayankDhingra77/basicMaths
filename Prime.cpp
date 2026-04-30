@@ -16,7 +16,6 @@ using namespace std ;
 
 
 //Count Primes
-//Sieve of Eratosthenes - assume all nummbers as prime remove all multiples of 2 and 3 and 5 and 7 
 bool isPrime(int n){
     if(n<=1) return false ;
 
